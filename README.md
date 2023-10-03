@@ -1,3 +1,3 @@
 # Flash_Card
 
-this project is developed with python.
+This project is developed with python.
